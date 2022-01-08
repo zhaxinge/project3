@@ -36,18 +36,18 @@ Individual Work
 <img src="images/flood/129.jpg?raw=true"/>
 After fully understanding the relationship between the site's demand for refuge and its influencing factors and hydrology and topography, different escape route schemes, flood prevention and refuge strategies are formulated for the site.
 
-<img src="images/food/1.png.jpg?raw=true"/>
+<br><br>
 
 #### Site Design
 
 <img src="images/flood/130.jpg?raw=true"/>
-<img src="images/food/1.png.jpg?raw=true"/>
+<br><br>
 
 #### Modeling
 <img src="images/flood/131.jpg?raw=true"/>
 I used cnc material to model the site and determine the possible water storage capacity of the site topography
 
-<img src="images/food/1.png.jpg?raw=true"/>
+<br><br>
 
 #### Perspective
 The site can be used both as an evacuation site during floods and as a park for recreational activities during the week.
@@ -56,7 +56,7 @@ The site can be used both as an evacuation site during floods and as a park for 
 
 <img src="images/flood/133.jpg?raw=true"/>
 Through setting culverts and depressions under the flood retaining dike to collect water, micro sunk Bay and aquatic plant planting, the site can be used as a water storage and  point filtration. When living in the shelter unit, villagers can take water from the park; after the flood subsides, the surplus water can be returned to nearby farmland for irrigation through underground pipelines.
-<img src="images/food/1.png.jpg?raw=true"/>
+<br><br>
 
 
 ### Thoughts
