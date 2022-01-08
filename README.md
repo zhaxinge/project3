@@ -17,15 +17,15 @@ Scale: 21ha
 
 Individual Work
 
-
+<br><br>
 
 ### Part 1: Background Research
 
 <img src="images/flood/126.jpg?raw=true"/>
-<img src="images/food/1.png.jpg?raw=true"/>
+<br><br>
 <img src="images/flood/127.jpg?raw=true"/>
 
-<img src="images/food/1.png.jpg?raw=true"/>
+<br><br>
 
 ### Part 2:STRATEGY: TOPOGRAPHY AS SOLUTION
  
